@@ -38,7 +38,7 @@ section {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 1.4rem 7%;
+  padding: 2rem 7%;
   background-color: rgba(1, 1, 1, 0.8);
   border-bottom: 1px solid var(--tuo);
   position: fixed;
@@ -123,11 +123,11 @@ section {
   color: var(--primary);
 }
 .hero .content p {
-  font-size: 1.4rem;
+  font-size: 1.6rem;
   margin-top: 0.2rem;
   line-height: 1.3;
-  font-weight: 200;
-  text-shadow: 1px 1px 3px rgba(1, 1, 3, 1, 0.5);
+  font-weight: 350;
+  text-shadow: 1px 1px 3px black;
   mix-blend-mode: difference;
 }
 .hero .content .cta {
